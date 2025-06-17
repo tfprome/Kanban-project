@@ -37,7 +37,7 @@ Login user and receive JWT.
 }
 
 Note for Reviewers:
-=> user password is hashed using bcrypt
+=> user password is hashed using bcryptjs
 => the login form, register form and the kanban board is designed using inline CSS
 => the user data is saved in local database due to some technical issues
 => the drag and drop is performed using react-beautiful-dnd
