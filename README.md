@@ -41,3 +41,4 @@ Note for Reviewers:
 => the login form, register form and the kanban board is designed using inline CSS
 => the user data is saved in local database due to some technical issues
 => the drag and drop is performed using react-beautiful-dnd
+=> jwt token is stored in local storage if the user logs in. it expires after 1 hour
